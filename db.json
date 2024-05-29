@@ -1,0 +1,107 @@
+{
+  "totalFollowers": 23004,
+  "overall": [
+    {
+      "platform": "facebook",
+      "username": "@nathanf",
+      "followers": 1987,
+      "todayChange": 12,
+      "changeDirection": "up",
+      "profileIcon": "./images/icon-facebook.svg",
+      "barClass": "bar-facebook"
+    },
+    {
+      "platform": "twitter",
+      "username": "@nathanf",
+      "followers": 1044,
+      "todayChange": 99,
+      "changeDirection": "up",
+      "profileIcon": "./images/icon-twitter.svg",
+      "barClass": "bar-twitter"
+    },
+    {
+      "platform": "instagram",
+      "username": "@realnathanf",
+      "followers": 11000,
+      "todayChange": 1099,
+      "changeDirection": "up",
+      "profileIcon": "./images/icon-instagram.svg",
+      "barClass": "bar-instagram"
+    },
+    {
+      "platform": "youtube",
+      "username": "Nathan F.",
+      "followers": 8239,
+      "todayChange": 144,
+      "changeDirection": "down",
+      "profileIcon": "./images/icon-youtube.svg",
+      "barClass": "bar-youtube"
+    }
+  ],
+  "overview": [
+    {
+      "title": "Page Views",
+      "platform": "facebook",
+      "count": 87,
+      "percentageChange": 3,
+      "changeDirection": "up",
+      "icon": "./images/icon-facebook.svg"
+    },
+    {
+      "title": "Likes",
+      "platform": "facebook",
+      "count": 52,
+      "percentageChange": 2,
+      "changeDirection": "down",
+      "icon": "./images/icon-facebook.svg"
+    },
+    {
+      "title": "Likes",
+      "platform": "instagram",
+      "count": 5462,
+      "percentageChange": 2257,
+      "changeDirection": "up",
+      "icon": "./images/icon-instagram.svg"
+    },
+    {
+      "title": "Profile Views",
+      "platform": "instagram",
+      "count": 52000,
+      "percentageChange": 1375,
+      "changeDirection": "up",
+      "icon": "./images/icon-instagram.svg"
+    },
+    {
+      "title": "Retweets",
+      "platform": "twitter",
+      "count": 117,
+      "percentageChange": 303,
+      "changeDirection": "up",
+      "icon": "./images/icon-twitter.svg"
+    },
+    {
+      "title": "Likes",
+      "platform": "twitter",
+      "count": 507,
+      "percentageChange": 553,
+      "changeDirection": "up",
+      "icon": "./images/icon-twitter.svg"
+    },
+    {
+      "title": "Likes",
+      "platform": "youtube",
+      "count": 107,
+      "percentageChange": 19,
+      "changeDirection": "down",
+      "icon": "./images/icon-youtube.svg"
+    },
+    {
+      "title": "Total Views",
+      "platform": "youtube",
+      "count": 1407,
+      "percentageChange": 12,
+      "changeDirection": "down",
+      "icon": "./images/icon-youtube.svg"
+    }
+  ]
+}
